@@ -8,8 +8,8 @@ Gem::Specification.new do |spec|
   spec.authors = ["longicorn"]
   spec.email = ["longicorn.c@gmail.com"]
 
-  spec.summary = "create document from rspec"
-  spec.description = "create document from rspec"
+  spec.summary = "Author's personal gem to create document from RSpec with Rails"
+  spec.description = "Author's personal gem to create document from RSpec with Rails"
   spec.homepage = "https://github.com/longicorn/rabdabs.git"
   spec.required_ruby_version = ">= 3.0.0"
 
